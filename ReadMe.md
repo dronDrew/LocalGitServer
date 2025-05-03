@@ -12,7 +12,8 @@ The characteristics of the machine are 1 CPU core and 2 gigabytes of RAM. These 
 
 1.  Install the Vagrant and hypervisor tools on your machine.
 2.  Clone the project.
-3.  Inside the project directory, run the command `vagrant up`.
+3.  Set the path to your local public key in the Vagrantfile.
+4.  Inside the project directory, run the command `vagrant up`.
 
 ## How to Use
 
